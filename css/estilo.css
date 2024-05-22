@@ -1,0 +1,61 @@
+body{
+    background-color: orangered;
+    background-image: url(img/dbz4.jpg) ;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+header{
+padding: 3%;
+justify-content: space-between;
+}
+main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.cabecalho{
+padding: 3%;
+}
+
+.logo img{
+    width: 10%;
+    height: 10%;
+
+}
+
+h1{
+
+}
+h2{
+
+}
+.titulo{
+    font-size: 2.cm;
+}
+.rodape{
+
+}
+
+p{
+    font-size: 30px;
+    line-height: 1.cm;
+    font-style: italic;
+}
+li{
+    font-size: 30px;
+}
+figure img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.figure caption{`
+margin: 1.0cm;
+color
+}
