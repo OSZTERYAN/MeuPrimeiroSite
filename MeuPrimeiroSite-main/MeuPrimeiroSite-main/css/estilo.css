@@ -1,0 +1,21 @@
+body{
+
+}
+h1{
+    color: rgb(75, 75, 83);
+    font-size: 60px;
+}
+p1{
+    color: rgb(31, 31, 31);
+    font-size: 20px;
+}
+nav{
+    background-color: rgb(255, 98, 0);
+    padding: 1%;
+}
+
+header{
+    background-color: beige;
+    padding: 3%;
+}
+
